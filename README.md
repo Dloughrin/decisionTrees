@@ -7,6 +7,6 @@ Splice junctions are points on a DNA sequence at which `superfluous' DNA is remo
 
 Attributes predicted: given a position in the middle of a window 60 DNA sequence elements (called "nucleotides" or "base-pairs"), decide if this is a
 
-a) "intron -> exon" boundary (IE) [These are sometimes called "donors"]
-b) "exon -> intron" boundary (EI) [These are sometimes called "acceptors"]
+a) "intron -> exon" boundary (IE) [These are sometimes called "donors"] <br />
+b) "exon -> intron" boundary (EI) [These are sometimes called "acceptors"] <br />
 c) neither (N)
